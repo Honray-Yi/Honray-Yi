@@ -43,6 +43,20 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
+## 🤖 Robotics & Mechanical Engineering
+
+### CAD & Mechanical Design
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-D9232E?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![3D Modeling](https://img.shields.io/badge/3D_Modeling-4263A6?style=for-the-badge)
+![Mechanical Design](https://img.shields.io/badge/Mechanical_Design-536477?style=for-the-badge)
+![Mechanics](https://img.shields.io/badge/Mechanics-7456A6?style=for-the-badge)
+
+### Robotics & Intelligent Systems
+![Robotics](https://img.shields.io/badge/Robotics-247BA0?style=for-the-badge)
+![Robot Kinematics](https://img.shields.io/badge/Robot_Kinematics-3C668A?style=for-the-badge)
+![Autonomous Systems](https://img.shields.io/badge/Autonomous_Systems-227C70?style=for-the-badge)
+![Embodied AI](https://img.shields.io/badge/Embodied_AI-7B50A5?style=for-the-badge)
+
 ## 🛠️ Development Tools
 
 ### Backend & APIs
