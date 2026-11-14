@@ -43,6 +43,30 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
+## 🧩 Agentic AI & Intelligent Automation
+
+### AI Agents & Frameworks
+![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NanoClaw](https://img.shields.io/badge/NanoClaw-374151?style=for-the-badge)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-475569?style=for-the-badge)
+
+### Agent Architecture
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-2563EB?style=for-the-badge)
+![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-0F766E?style=for-the-badge)
+![Persistent Memory](https://img.shields.io/badge/Persistent_Memory-6366F1?style=for-the-badge)
+![AI Skills](https://img.shields.io/badge/AI_Skills-0891B2?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-15803D?style=for-the-badge)
+
+### Generative Engine Optimization
+![GEO](https://img.shields.io/badge/Generative_Engine_Optimization-9333EA?style=for-the-badge)
+![AI Search](https://img.shields.io/badge/AI_Search_Optimization-2563EB?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO-059669?style=for-the-badge)
+![Schema.org](https://img.shields.io/badge/Schema.org-64748B?style=for-the-badge)
+![LLM Monitoring](https://img.shields.io/badge/LLM_Monitoring-0D9488?style=for-the-badge)
+
 ## 🤖 Robotics & Mechanical Engineering
 
 ### CAD & Mechanical Design
